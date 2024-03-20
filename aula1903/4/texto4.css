@@ -1,0 +1,39 @@
+div {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    border: 5px black dashed;
+}
+
+#divl {
+    background-color: yellow;
+}
+
+#div2 {
+    background-color: #c4c4c4;
+    background-clip: padding-box;
+}
+
+#div3 {
+    background-image: url("http://icons.veryicon.com/128/Fi Type/Mnemo Filetype/css.png");
+    background-repeat: no-repeat;
+}
+
+#div4 {
+    background-image: url("http://icons.veryicon.com/128/File Type/Mnemo Filetype/css.png");
+    background-repeat: no-repeat;
+    background-origin: border-box;
+}
+
+#div5 {
+    background-image: url("http://icons.veryicon.com/128/File Type/Mnemo Filetype/css.png");
+    background-repeat: no-repeat;
+    background-origin: contain;
+}
+
+body {
+    background-image: url("http://www.anujgakhar.com/wp-content/uploads/2014/07/cssl.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+}

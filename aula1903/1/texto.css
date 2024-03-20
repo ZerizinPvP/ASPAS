@@ -1,0 +1,23 @@
+h1{
+    background-color: rgb(0, 190, 248);
+    color: rgb(13, 13, 148);
+    text-align: center;
+}
+
+p{
+    text-indent: 4em;
+    color: rgb(1, 127, 211);
+}
+
+h1, p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#p3{
+    border: dotted 1px;
+    color: crimson;
+    width: 80%;
+    margin: 0% auto;
+    
+}
+

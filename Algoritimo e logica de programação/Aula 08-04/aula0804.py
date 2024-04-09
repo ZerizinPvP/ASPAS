@@ -87,7 +87,6 @@ print(f'\nO valor de "a" extraido da função ord():{ord("a")}')
 print(f'\nO valor de "X" extraido da função ord():{ord("X")}')
 """
 
-"""
 #M)
 i = 0
 nome = input('Insira teu nome completo:\n')
@@ -104,7 +103,7 @@ while i < len(nome):
         nome3 = nome2.upper()
     i += 1
 print(nome3)
-"""
+
 
 
 """

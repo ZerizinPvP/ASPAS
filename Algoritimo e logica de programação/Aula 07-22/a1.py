@@ -1,4 +1,4 @@
-"""from tkinter import *
+from tkinter import *
 
 # Definindo a função capturar ao clicar no botão
 def capturar():
@@ -40,8 +40,8 @@ btn_captura.place(x=490, y=300, width=125, height=40)
 
 # Iniciando o loop da aplicação
 app.mainloop()
-"""
 
+"""
 from tkinter import *
 
 # Função para adicionar o nome à lista e atualizar a exibição
@@ -103,3 +103,4 @@ btn_adicionar.pack(pady=10)
 
 # Iniciando o loop da aplicação
 app.mainloop()
+"""
